@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "question":"Hello!",
+            "answer": "Yooh"
+        },
+        {
+            "question":"How are you?",
+            "answer":"good! thanks for asking!"
+        },
+        {
+        "question": "what is the capital of France?",
+        "answers": [
+            "paris",
+            "London",
+            "Berlin",
+            "Rome"
+        ],
+        "correct Answers" : 0
+    },
+    {
+        "question":"what is the capital of Germany?",
+        "answers":[
+            "Berlin",
+            "London"
+        ],
+        "correct Answers" : 0
+    }
+    ]
+}
